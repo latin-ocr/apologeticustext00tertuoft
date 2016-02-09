@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "apologeticustext00tertuoft_0005.png"; bbox 0 0 1827 3004; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 230 1162 1302 1232">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 230 1162 1302 1232">
+     <span class='ocr_line' id='line_1_1' title="bbox 230 1162 1302 1232; baseline 0.012 -13"><span class='ocrx_word' id='word_1_1' title='bbox 230 1162 305 1231; x_wconf 87' lang='lat' dir='ltr'>Q.</span> <span class='ocrx_word' id='word_1_2' title='bbox 380 1163 735 1225; x_wconf 90' lang='lat' dir='ltr'><strong>SEPTIMI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 807 1169 1302 1232; x_wconf 86' lang='lat' dir='ltr'>FLORENTIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 297 1309 1228 1552">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 297 1309 1228 1552">
+     <span class='ocr_line' id='line_1_2' title="bbox 297 1309 1228 1404; baseline 0.013 -11"><span class='ocrx_word' id='word_1_4' title='bbox 297 1309 1180 1403; x_wconf 89' lang='lat' dir='ltr'>TERTVLLIAN</span> <span class='ocrx_word' id='word_1_5' title='bbox 1190 1322 1228 1404; x_wconf 98' lang='lat' dir='ltr'>I</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 424 1487 1100 1552; baseline 0.013 -8"><span class='ocrx_word' id='word_1_6' title='bbox 424 1487 1100 1552; x_wconf 82' lang='lat' dir='ltr'>APOLOGETICVS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
